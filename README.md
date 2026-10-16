@@ -8,6 +8,14 @@ I build growth engines: the systems that produce the revenue. For three years th
 - Demand generation built from no CRM: a 6,300-contact funnel across 60+ countries, 2,900 of them sales-qualified; web traffic up ~30× and monthly impressions from 0 to 150k.
 - Earlier, at Frubana: VP of Online Growth while monthly sales went from USD 0.5M to USD 27M.
 
+**Work, rebuilt generic and runnable**
+- [platform-profile](https://github.com/nunomnferreirapt/platform-profile): a company's public pages into one git-tracked knowledge profile, where generated text is never a source.
+- [article-pipeline](https://github.com/nunomnferreirapt/article-pipeline): parallel research, one writer, a fact-check gate.
+- [source-to-docs](https://github.com/nunomnferreirapt/source-to-docs): from a transcript or a support thread to a docs pull request, with a drift watch.
+
+**Personal, as is**
+- [komoot-mcp](https://github.com/nunomnferreirapt/komoot-mcp) and [gravel-ride-plan](https://github.com/nunomnferreirapt/gravel-ride-plan): the weekend version of the same habit.
+
 **Next**
 
 A product-led company that wants its go-to-market built and run as a system, with the P&L that comes with it.

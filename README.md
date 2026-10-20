@@ -20,9 +20,3 @@ I build growth engines: the systems that produce the revenue. For three years th
 - Claude Code inside VS Code, where I work; GitHub holds the work, one repo per way of working, each with its own instructions file and memory, and a pull request when a change needs one.
 - Skills for anything that repeats, subagents for second opinions (voice, facts, leaks), MCP servers to connect the tools, five of them my own; plain Python with tests where a check must give the same answer every time.
 - Not a professional developer. The architecture, the agent design and the evaluation are my calls; an agent drafts, a person closes, and nothing reaches a customer or a public repo unread.
-
-**Next**
-
-A product-led company that wants its go-to-market built and run as a system, with the P&L that comes with it.
-
-[LinkedIn](https://www.linkedin.com/in/nunomnferreira)

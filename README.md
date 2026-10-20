@@ -8,7 +8,7 @@ I build growth engines: the systems that produce the revenue. For three years th
 - Demand generation built from no CRM: a 6,300-contact funnel across 60+ countries, 2,900 of them sales-qualified; web traffic up ~30× and monthly impressions from 0 to 150k.
 - Earlier, at Frubana: VP of Online Growth while monthly sales went from USD 0.5M to USD 27M.
 
-**Work tools, rebuilt in the open**
+**Work tools, rebuilt for anyone to use**
 - [platform-profile](https://github.com/nunomnferreirapt/platform-profile): a company's public pages into one git-tracked knowledge profile, where generated text is never a source.
 - [article-pipeline](https://github.com/nunomnferreirapt/article-pipeline): parallel research, one writer, a fact-check gate.
 - [source-to-docs](https://github.com/nunomnferreirapt/source-to-docs): from a transcript or a support thread to a docs pull request, with a drift watch.

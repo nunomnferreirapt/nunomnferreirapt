@@ -13,8 +13,9 @@ I build growth engines: the systems that produce the revenue. For three years th
 - [article-pipeline](https://github.com/nunomnferreirapt/article-pipeline): parallel research, one writer, a fact-check gate.
 - [source-to-docs](https://github.com/nunomnferreirapt/source-to-docs): from a transcript or a support thread to a docs pull request, with a drift watch.
 
-**Weekend tools**
+**Personal tools**
 - [komoot-mcp](https://github.com/nunomnferreirapt/komoot-mcp) and [gravel-ride-plan](https://github.com/nunomnferreirapt/gravel-ride-plan): the same habit, off the clock.
+- [news-briefing-skill](https://github.com/nunomnferreirapt/news-briefing-skill): my news as one phone page, checked by Mistral, shaped by what I read.
 
 **How I work with AI**
 - Claude Code inside VS Code, where I work; GitHub holds the work, one repo per way of working, each with its own instructions file and memory, and a pull request when a change needs one.
